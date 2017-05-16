@@ -4,3 +4,4 @@ Redux
 Flux
 Redux-React-Bind
 Angular
+videojs
