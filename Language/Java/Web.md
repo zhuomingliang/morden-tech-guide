@@ -5,3 +5,5 @@ Structs
 Tomcat
 Jetty
 Netty
+Retrofit
+okhttp
