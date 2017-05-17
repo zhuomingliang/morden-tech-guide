@@ -1,6 +1,6 @@
 Jquery
 React
-Redux
+Redux and Redux-devtools
 Flux
 Redux-React-Bind
 Angular
