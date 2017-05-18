@@ -1,0 +1,1 @@
+pdsh  https://github.com/grondo/pdsh (Parallel Distributed SHell)可并行的执行对目标主机的操作，对于批量执行命令和分发任务有很大的帮助，在使用前需要配置ssh无密码登录。
