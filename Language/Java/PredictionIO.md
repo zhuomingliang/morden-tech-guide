@@ -10,9 +10,21 @@ implement your own machine learning models and seamlessly incorporate them into 
 simplify data infrastructure management.
 
 主要用途（参考 http://predictionio.incubator.apache.org/gallery/template-gallery/）：
-Recommendation
+Recommendation 
 Classification
 Regression
 NLPClustering
 Similarity
 Other
+
+The Universal Recommender https://github.com/actionml/universal-recommender
+
+Use for:
+
+Personalized recommendations—user-based
+Similar items—item-based
+Viewed this bought that—item-based cross-action
+Popular Items and User-defined ranking
+Item-set recommendations for complimentarty purchases or shopping carts—item-set-based
+Hybrid collaborative filtering and content based recommendations—limited content-based
+Business rules
