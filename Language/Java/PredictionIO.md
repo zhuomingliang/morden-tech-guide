@@ -26,5 +26,4 @@ Similar items—item-based
 Viewed this bought that—item-based cross-action
 Popular Items and User-defined ranking
 Item-set recommendations for complimentarty purchases or shopping carts—item-set-based
-Hybrid collaborative filtering and content based recommendations—limited content-based
-Business rules
+Hybrid collaborative filtering and content based recommendations—limited content-based Business rules
