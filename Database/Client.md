@@ -30,3 +30,6 @@ http://www.dbtools.com.br/EN/dbmanagerpro/
 
 MyDB Studio
 http://www.mydb-studio.com/
+
+DbVisualizer
+https://www.dbvis.com
