@@ -1,0 +1,1 @@
+ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries. https://clickhouse.yandex
